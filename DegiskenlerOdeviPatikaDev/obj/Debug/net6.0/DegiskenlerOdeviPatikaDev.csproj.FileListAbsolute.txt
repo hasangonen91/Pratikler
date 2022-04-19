@@ -1,0 +1,15 @@
+D:\DegiskenlerOdeviPatikaDev\bin\Debug\net6.0\DegiskenlerOdeviPatikaDev.exe
+D:\DegiskenlerOdeviPatikaDev\bin\Debug\net6.0\DegiskenlerOdeviPatikaDev.deps.json
+D:\DegiskenlerOdeviPatikaDev\bin\Debug\net6.0\DegiskenlerOdeviPatikaDev.runtimeconfig.json
+D:\DegiskenlerOdeviPatikaDev\bin\Debug\net6.0\DegiskenlerOdeviPatikaDev.dll
+D:\DegiskenlerOdeviPatikaDev\bin\Debug\net6.0\DegiskenlerOdeviPatikaDev.pdb
+D:\DegiskenlerOdeviPatikaDev\obj\Debug\net6.0\DegiskenlerOdeviPatikaDev.csproj.AssemblyReference.cache
+D:\DegiskenlerOdeviPatikaDev\obj\Debug\net6.0\DegiskenlerOdeviPatikaDev.GeneratedMSBuildEditorConfig.editorconfig
+D:\DegiskenlerOdeviPatikaDev\obj\Debug\net6.0\DegiskenlerOdeviPatikaDev.AssemblyInfoInputs.cache
+D:\DegiskenlerOdeviPatikaDev\obj\Debug\net6.0\DegiskenlerOdeviPatikaDev.AssemblyInfo.cs
+D:\DegiskenlerOdeviPatikaDev\obj\Debug\net6.0\DegiskenlerOdeviPatikaDev.csproj.CoreCompileInputs.cache
+D:\DegiskenlerOdeviPatikaDev\obj\Debug\net6.0\DegiskenlerOdeviPatikaDev.dll
+D:\DegiskenlerOdeviPatikaDev\obj\Debug\net6.0\refint\DegiskenlerOdeviPatikaDev.dll
+D:\DegiskenlerOdeviPatikaDev\obj\Debug\net6.0\DegiskenlerOdeviPatikaDev.pdb
+D:\DegiskenlerOdeviPatikaDev\obj\Debug\net6.0\DegiskenlerOdeviPatikaDev.genruntimeconfig.cache
+D:\DegiskenlerOdeviPatikaDev\obj\Debug\net6.0\ref\DegiskenlerOdeviPatikaDev.dll
